@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 void	aux_rot(t_list **stack_a, t_list **stack_b, int *index_a, int *index_b)
 {

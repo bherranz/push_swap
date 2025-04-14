@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "push_swap.h"
+#include "../push_swap.h"
 
 int	aux_rotatec(int *index_a, int *index_b, int size_a, int size_b)
 {

@@ -2,9 +2,19 @@ NAME = push_swap
 BONUS_NAME = .bonus
 PROGRAM = checker
 
-SRCS = push_swap.c swap.c push.c rotate.c reverse.c algorithm.c minisort.c\
-		ft_split_spaces.c new_stack.c check_input.c calculate_cost.c\
-		organize.c calculate_index.c
+SRCS =  src/push_swap.c \
+		src/movements/swap.c \
+		src/movements/push.c  \
+		src/movements/rotate.c  \
+		src/movements/reverse.c \
+		src/algorithm.c \
+		src/minisort.c\
+		src/ft_split_spaces.c  \
+		src/new_stack.c \
+		src/check_input.c  \
+		src/calculate_cost.c\
+		src/organize.c  \
+		src/calculate_index.c
 
 BONUS = bonus/swap_bonus.c bonus/push_bonus.c bonus/reverse_bonus.c bonus/rotate_bonus.c\
 		bonus/checker_bonus.c bonus/new_stack_bonus.c bonus/check_input_bonus.c\
