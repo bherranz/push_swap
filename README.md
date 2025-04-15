@@ -69,11 +69,13 @@ A sample run of the program with a visual representation of the stacks:
 🎥 [Insert GIF below]
 
 ## 📁 Project Structure
+````bash
 ├── Makefile
 ├── bonus
 ├── src
 ├── push_swap.h
 ├── libft/
+````
 
 ## ✅ Bonus
 A checker program that:
