@@ -66,7 +66,7 @@ This leads to a smart insertion sort that minimizes the number of instructions.
 ## 👁️ Example with Visualizer
 A sample run of the program with a visual representation of the stacks:
 
-🎥 [Visualizer](assets/visualizer.gif)
+![Visualizer](assets/visualizer.gif)
 
 ## 📁 Project Structure
 ````bash
